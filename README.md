@@ -1,2 +1,2 @@
-# test СϹ��
+# test СϹ
 test
